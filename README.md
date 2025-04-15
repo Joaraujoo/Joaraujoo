@@ -20,7 +20,7 @@
 
 ## 📫 Como me encontrar
 
-[LinkedIn](https://www.linkedin.com/in/joaraujoo/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joaraujoo/)  
 ✉️ joaoaraujo47@outlook.com
 
 <!--
