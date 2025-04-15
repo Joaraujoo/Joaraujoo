@@ -21,7 +21,6 @@
 ## 📫 Como me encontrar
 
 [LinkedIn](https://www.linkedin.com/in/joaraujoo/)  
-[GitHub](https://github.com/Joaraujoo)  
 ✉️ joaoaraujo47@outlook.com
 
 <!--
