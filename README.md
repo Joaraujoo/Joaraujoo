@@ -18,25 +18,6 @@
 
 ---
 
-## 🚀 Projetos em destaque
-
-- [🔍 Busca CEP com API](https://github.com/Joaraujoo/busca-cep-api)  
-  Consulta de endereço usando API pública de CEP e preenchimento automático de formulário.
-
-- [🎨 Projeto com Bootstrap](https://github.com/Joaraujoo/projeto-bootstrap)  
-  Página responsiva utilizando Bootstrap com foco em layout e componentes prontos.
-
-- [🛡️ Validação de Formulário](https://github.com/Joaraujoo/valida-formulario)  
-  Formulário com validação de campos, mensagens de erro dinâmicas e UX melhorada.
-
-- [📋 Lista de Tarefas](https://github.com/Joaraujoo/lista-tarefas)  
-  To-Do List com funções de adicionar, excluir e marcar tarefas concluídas.
-
-- [⏱️ Cronômetro](https://github.com/Joaraujoo/cronometro)  
-  Cronômetro com funcionalidades de iniciar, pausar e resetar utilizando JavaScript puro.
-
----
-
 ## 📫 Como me encontrar
 
 [LinkedIn](https://www.linkedin.com/in/joaraujoo/)  
