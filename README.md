@@ -1,5 +1,5 @@
 # Olá, eu sou o João Araujo👋
-Estudante de Engenharia de Software na Universidade Anhanguera, atualmente estudando inglês e aprimorando habilidades em UI/UX
+Estudante de Engenharia de Software na Universidade Anhanguera.
 
 🚀 Em busca de uma oportunidade como estagiário em tecnologia
 
@@ -74,16 +74,18 @@ Estudante de Engenharia de Software na Universidade Anhanguera, atualmente estud
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+
 
 <br/>
 <br/>
-
-### 📊 Estatísticas
-
-
-
-
-![Joao GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaraujoo&show_icons=true&theme=dracula)
 
 
 ## Contato:
